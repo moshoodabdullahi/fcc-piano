@@ -9,14 +9,16 @@ Additional description about the project and its features.
 ## Built With
 
 - HTML5 elements
-  - `img`,
-  - `div`.
-- CSS elements
-  - `@media`.
+  - `img`, `div`.
+- CSS properties
+  - CSS Variables for reusable CSS values,
+  - CSS Media Query for page responsiveness using `@media` rule,
+  - CSS Positioning `absolute`,
+  - CSS Background for page aesthetic using `background-color`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
-- Github Action
+- GitHub Action
 
 ## Live Demo
 
