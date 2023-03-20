@@ -1,11 +1,11 @@
-html {
-  box-sizing: border-box;
-}
-
 *,
 *::before,
 *::after {
   box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
 }
 
 #piano {
@@ -36,8 +36,7 @@ html {
   border-radius: 0 0 3px 3px;
 }
 
-/* stylelint-disable-next-line selector-class-pattern */
-.key.black--key::after {
+.key black--key::after {
   background-color: #1d1e22;
   content: "";
   position: absolute;
@@ -67,7 +66,12 @@ html {
   }
 }
 
-/* stylelint-disable-next-line block-no-empty */
 @media (max-width: 1199px) and (min-width: 769px) {
+  #piano {
+    width: 675px;
+  }
 
+  .keys {
+    width: 633px;
+  }
 }

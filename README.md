@@ -1,19 +1,18 @@
 # FCC PIANO
 
-> A basic HTML and CSS element to demostrate styling.
+> A basic HTML and CSS element to code a piano.
 
 ![screenshot](fcc-piano.netlify.app_.png)
 
-Additional description about the project and its features.
+Piano project teaches on how to use CSS and Responsive Design to code a piano. It also teaches more about media queries and pseudo selectors.
 
 ## Built With
 
 - HTML5 elements
-  - `img`, `div`.
+  - `div`.
 - CSS properties
   - CSS Variables for reusable CSS values,
   - CSS Media Query for page responsiveness using `@media` rule,
-  - CSS Positioning `absolute`,
   - CSS Background for page aesthetic using `background-color`.
 - Linters
   - [Prettier](https://prettier.io/),
