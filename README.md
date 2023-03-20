@@ -28,7 +28,7 @@ Piano project teaches on how to use CSS and Responsive Design to code a piano. I
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/moshoodabdullahi/fcc-piano.git
 ```
 
 - Install Dependencies
