@@ -1,17 +1,19 @@
 # FCC PIANO
 
-> A basic HTML and CSS element to code a piano.
+> A piano project using CSS and responsive design such as media queries and pseudo selectors.
 
 ![screenshot](fcc-piano.netlify.app_.png)
 
-Piano project teaches on how to use CSS and Responsive Design to code a piano. It also teaches more about media queries and pseudo selectors.
+# This PR adds a Piano project using media queries and pseudo selectors.
 
 ## Built With
 
 - HTML5 elements
   - `div`.
 - CSS properties
+  - CSS pseudo selectors such as `:before`, `:after`,
   - CSS Variables for reusable CSS values,
+  - CSS Positioning `absolute`,
   - CSS Media Query for page responsiveness using `@media` rule,
   - CSS Background for page aesthetic using `background-color`.
 - Linters
@@ -71,7 +73,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
